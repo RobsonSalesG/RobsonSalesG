@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, bem-vindo(a) ao meu GitHub!  
 
-<!--
-**RobsonSalesG/RobsonSalesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou [Robson Sales] e estou iniciando meus estudos em **programação** 🚀  
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo:  
+- 💻 Lógica de Programação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Este repositório será usado para acompanhar minha jornada de aprendizado em programação.  
+Aqui vou compartilhar:
+- Exercícios que estou praticando  
+- Pequenos projetos de estudo  
+- Anotações e resumos  
+
+
+## 🤝 Conecte-se comigo 
+- [Email](mailto:rs3116494@gmail.com)  
+
+---
+Obrigado por visitar meu perfil! Em breve vou compartilhar meus primeiros projetos por aqui.
