@@ -1,4 +1,4 @@
-# 👋 Olá, bem-vindo(a) ao meu GitHub!  
+# Bem-vindo(a) ao meu GitHub!  
 
 Eu sou [Robson Sales] e estou iniciando meus estudos em **programação** 🚀  
 
